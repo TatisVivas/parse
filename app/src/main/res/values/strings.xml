@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parse App</string>
+    <string name="save">Save </string>
+    <string name="name">name... </string>
+    <string name="last_name">last name... </string>
+    <string name="users">User List </string>
+</resources>
